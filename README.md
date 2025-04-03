@@ -1,11 +1,11 @@
 # Hi there 👌
 
 ## About Me
-````
+```
 I'm 18 years old and from Germany. In my free time, I'm really into gaming and coding. I enjoy exploring different areas of programming – whether it's frontend, backend, UI design, software, or even hardware. Besides spending time in front of a screen, I also like hanging out with friends and going out to parties. That balance between tech and social life is important to me.
 
 I'm a strong team player and enjoy working with others. While I sometimes find it hard to stay focused on tasks that don't interest me, I'm fully motivated and concentrated when it comes to topics and projects I'm passionate about.
-````
+```
 
 ## Hobbies & Interests
 * ```` Gaming ````

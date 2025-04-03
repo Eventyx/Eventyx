@@ -9,7 +9,7 @@
 
 > [!NOTE]
 > **Active Project**
-> [![TorchCS]([https://github.com/vuejs/vue](https://github.com/TorchCS-MC))]
+> ["TorchCS"]([https://github.com/vuejs/vue](https://github.com/TorchCS-MC))
 
 ## Hobbies & Interests
 * ```` Gaming ````

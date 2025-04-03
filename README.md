@@ -15,9 +15,9 @@
 * ```` Partying ````
 
 ## Strengths
-* ```` Team-oriented and communicative ````
-* ```` Strong interest in tech and eagerness to learn ````
-* ```` Creative use of digital tools ````
+* ``` Team-oriented and communicative ```
+* ``` Strong interest in tech and eagerness to learn ```
+* ``` Creative use of digital tools ```
 
 ## Challenges
 * ```` Staying focused on less interesting tasks can be difficult sometimes ````

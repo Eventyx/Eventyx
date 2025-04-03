@@ -7,10 +7,15 @@
 > I'm a strong team player and enjoy working with others. While I sometimes find it hard to stay focused on tasks that don't interest me,
 > I'm fully motivated and concentrated when it comes to topics and projects I'm passionate about.
 
+##
+
 > [!NOTE]
 > **Active Project**
 > 
 > [`TorchCS`]([https://github.com/vuejs/vue](https://github.com/TorchCS-MC))
+
+> [!NOTE]
+>TorchCS will be released under the [`MIT-licens`](https://choosealicense.com/licenses/mit/) Details will follow with the first release.
 
 ## Hobbies & Interests
 * ```` Gaming ````

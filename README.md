@@ -7,6 +7,12 @@ I'm 18 years old and from Germany. In my free time, I'm really into gaming and c
 I'm a strong team player and enjoy working with others. While I sometimes find it hard to stay focused on tasks that don't interest me, I'm fully motivated and concentrated when it comes to topics and projects I'm passionate about.
 ```
 
+```
+git status
+git add
+git commit
+```
+
 ## Hobbies & Interests
 * ```` Gaming ````
 * ```` Programming (Frontend, Backend, UI, Software & Hardware) ````

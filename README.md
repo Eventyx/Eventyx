@@ -10,12 +10,7 @@
 ##
 
 > [!NOTE]
-> **Active Project**
-> 
-> [`TorchCS`]([https://github.com/vuejs/vue](https://github.com/TorchCS-MC))
-
-> [!NOTE]
->TorchCS will be released under the [`MIT-licens`](https://choosealicense.com/licenses/mit/) Details will follow with the first release.
+> **Active Project**: [`TorchCS`](https://github.com/TorchCS-MC)
 
 ## Hobbies & Interests
 * ```` Gaming ````

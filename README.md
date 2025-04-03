@@ -21,6 +21,6 @@ I'm a strong team player and enjoy working with others. While I sometimes find i
 ## Challenges
 * ```` Staying focused on less interesting tasks can be difficult sometimes ````
 
+
 ### 🌐 Discord
-__
 [![Discord Presence](https://lanyard.cnrad.dev/api/807192870846595072)](https://discord.com/users/807192870846595072)

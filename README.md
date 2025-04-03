@@ -1,5 +1,5 @@
 # Hi there 👌
-```
+```TEXT
 I'm 18 years old and from Germany. In my free time, I'm really into gaming and coding.
 I enjoy exploring different areas of programming – whether it's frontend, backend, UI design, software, or even hardware.
 Besides spending time in front of a screen,

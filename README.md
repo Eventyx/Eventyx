@@ -22,6 +22,7 @@
 ## Challenges
 * ```` Staying focused on less interesting tasks can be difficult sometimes ````
 
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" /><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" />    
 
 ### 🌐 Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/807192870846595072)](https://discord.com/users/807192870846595072)
